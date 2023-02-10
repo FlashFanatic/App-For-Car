@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When selected, use white -->
+    <item android:drawable="@drawable/usiim"
+        android:state_checked="true" />
+    <!-- When not selected, use black-->
+    <item android:drawable="@drawable/png_clipart_pause_icon_brand_pattern_pause_button_angle_rectangle_thumbnail"
+        android:state_checked="false"/>
+
+</selector>

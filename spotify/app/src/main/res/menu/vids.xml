@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Lofi"
+        android:id="@+id/lofi" />
+    <item android:title="Anime Girl"
+        android:id="@+id/blonde" />
+    <item android:title="Sinking Ship"
+        android:id="@+id/carandmoon"/>
+    <item android:title="Beach"
+        android:id="@+id/beach"/>
+    <item android:title="Gun Game"
+        android:id="@+id/gun"/>
+</menu>
